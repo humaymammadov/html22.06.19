@@ -1,0 +1,16 @@
+body{
+    background: skyblue;
+}
+.humay{
+    color: aqua;
+    border-bottom: 1px solid crimson;
+    border-radius: 25px 50px;
+
+}
+.slm{
+    color: blueviolet
+}
+div{
+    width: 50%;
+    background: burlywood
+}
